@@ -1,0 +1,5 @@
+{
+  "name": "Remix: NotebookLM to Kahoot Converter",
+  "description": "Egy eszköz, amely a NotebookLM-ből exportált kvízeket Kahoot-kompatibilis Excel/CSV formátumba alakítja át.",
+  "requestFramePermissions": []
+}
